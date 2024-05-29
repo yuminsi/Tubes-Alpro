@@ -1,0 +1,7 @@
+paku,20000,20,kg
+besi,40000,60,biji
+semen,60000,20,karung
+keramik,45000,40,dus
+pipa,30000,50,batang
+granit,90000,50,dus
+papan,90000,20,lembar
